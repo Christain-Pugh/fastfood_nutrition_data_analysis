@@ -1,5 +1,6 @@
 # fastfood_nutrition_data_analysis
 🥡 Exploratory Data Analysis: Fast Food Nutrition
+
 📌 Project Overview
 This project involves an exploratory data analysis (EDA) of fast food nutritional information sourced from a Kaggle dataset. The primary goal is to identify suitable food options from various fast food chains that align with specific dietary goals.
 
